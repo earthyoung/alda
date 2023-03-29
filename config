@@ -1,0 +1,4 @@
+Host alda_backend
+    HostName ec2-3-36-77-19.ap-northeast-2.compute.amazonaws.com
+    User ubuntu
+    IdentityFile ~/.ssh/alda_key.pem
